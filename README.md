@@ -1,7 +1,7 @@
 # Shinchan
 
 ![Image](https://i1.sndcdn.com/artworks-000205716223-76o1tw-t500x500.jpg)
-## Hello Everyneeyan
+<h2>Hello Everyneeyan</h2> 
 
 I have finished revising css and thought of making this small project for creating my favourite character shinchan using css.
 I have used after pseudo class to keeping as less classes as possible
